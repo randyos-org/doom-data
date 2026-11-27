@@ -1,3 +1,0 @@
-pywasm3
-numpy
-pygame
